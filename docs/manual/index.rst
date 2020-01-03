@@ -14,6 +14,9 @@ directly in the management interface.
    :maxdepth: 1
    :caption: Further reading
 
-   management-interface
-   api-authorizations
+   general
    catalogi/index
+   users
+   api-authorizations
+
+   management-interface
